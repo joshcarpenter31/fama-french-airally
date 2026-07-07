@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+statsmodels>=0.13
+yfinance
+pandas-datareader
+requests
+lxml
+notebook

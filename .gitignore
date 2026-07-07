@@ -20,4 +20,7 @@ Thumbs.db
 # Office lock files
 ~$*
 
+# Word drafts stay local
+*.docx
+
 
